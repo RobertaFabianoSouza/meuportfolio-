@@ -361,7 +361,7 @@ span{
 }
 
 .contato form .input-box input,
-.contato form textarea{
+.contato form textarea {
     width: 100%;
     padding: 1.5rem;
     font-size: 1.6rem;
@@ -383,6 +383,9 @@ span{
     margin-top: 2rem;
     cursor: pointer;
 }
+
+
+
 
 /*==================RODAPÉ - FOOTER================*/
 
